@@ -24,7 +24,7 @@ printf("the sum of the array elements is %d",sum);
 }
  int main()
 {
-int a[100],n,sum;
+int a[],n,sum;
 input(a,&n);
 sum=add(a,n);
 output(sum);
